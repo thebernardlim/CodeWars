@@ -1,0 +1,8 @@
+C:\Users\bernard.lim\Desktop\BL\Projects\CodeWars\8kyu-InvertValues\8kyu-InvertValues\bin\Debug\8kyu-InvertValues.exe.config
+C:\Users\bernard.lim\Desktop\BL\Projects\CodeWars\8kyu-InvertValues\8kyu-InvertValues\bin\Debug\8kyu-InvertValues.exe
+C:\Users\bernard.lim\Desktop\BL\Projects\CodeWars\8kyu-InvertValues\8kyu-InvertValues\bin\Debug\8kyu-InvertValues.pdb
+C:\Users\bernard.lim\Desktop\BL\Projects\CodeWars\8kyu-InvertValues\8kyu-InvertValues\bin\Debug\nunit.framework.dll
+C:\Users\bernard.lim\Desktop\BL\Projects\CodeWars\8kyu-InvertValues\8kyu-InvertValues\bin\Debug\nunit.framework.xml
+C:\Users\bernard.lim\Desktop\BL\Projects\CodeWars\8kyu-InvertValues\8kyu-InvertValues\obj\Debug\8kyu-InvertValues.csprojResolveAssemblyReference.cache
+C:\Users\bernard.lim\Desktop\BL\Projects\CodeWars\8kyu-InvertValues\8kyu-InvertValues\obj\Debug\8kyu-InvertValues.exe
+C:\Users\bernard.lim\Desktop\BL\Projects\CodeWars\8kyu-InvertValues\8kyu-InvertValues\obj\Debug\8kyu-InvertValues.pdb
