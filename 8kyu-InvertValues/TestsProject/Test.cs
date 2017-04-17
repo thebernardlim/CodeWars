@@ -9,7 +9,7 @@ namespace _8kyu_InvertValues
 {
     [TestFixture]
     class Test
-    {
+    { 
         [Test]
         public void BasicTests()
         {
